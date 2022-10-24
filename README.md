@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @pabloftc
-- 👀 I’m interested in Full Stack Development & Software Engineering
-- 🌱 I’m currently learning Scala & Functional Programming
-- 📫 How to reach me -> by mail pabloftc@gmail.com
+# Pablo Terraza C.
 
+## Full Stack Developer
+
+### JavaScript | React | Python | Flask
+
+---
+
+- 👋 Hi, I’m Pablo
+
+- 💻 Full Stack Developer (JavaScript | React | Python | Flask)
+
+- 👀 I’m interested in Software Development & all things web
+
+- 🌱 Currently interested in Functional Programming
+
+- 📫 How to reach me -> **[Mail](mailto:pabloftc@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/pabloftc/)**
+
+- Based in 🇨🇱
 <!---
 pabloftc/pabloftc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
