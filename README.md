@@ -8,7 +8,7 @@
 
 - 👋 Hi, I’m Pablo
 
-- 💻 Full Stack Developer (JavaScript | React | Python | Flask)
+- 💻 Full Stack Developer (JavaScript | React | Python | Flask | SQL)
 
 - 👀 I’m interested in Software Development & all things web
 
