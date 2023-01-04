@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-### JavaScript | React | Python | Flask
+### JavaScript | React | Python | Flask | SQL
 
 ---
 
