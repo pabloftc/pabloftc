@@ -2,13 +2,13 @@
 
 ## Full Stack Developer
 
-### JavaScript | React | Python | Flask | SQL
+### HTML | CSS | JavaScript | React | Python | Flask | SQL
 
 ---
 
 - 👋 Hi, I’m Pablo
 
-- 💻 Full Stack Developer (JavaScript | React | Python | Flask | SQL)
+- 💻 Full Stack Developer (HTML | CSS | JavaScript | React | Python | Flask | SQL)
 
 - 👀 I’m interested in Software Development & all things web
 
